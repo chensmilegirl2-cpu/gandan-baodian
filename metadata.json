@@ -1,0 +1,7 @@
+{
+  "name": "干饭宝典 - Foodie Bible",
+  "description": "一个优雅的Q萌饮食记录与治愈养成APP。记录三餐，灌溉庄园，喂养萌宠，让每一餐都充满温度。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
